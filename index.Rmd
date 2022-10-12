@@ -28,3 +28,4 @@ output: html_document
 第一章：导论 [资料](https://pan.baidu.com/s/1tTqgf-t3HVjp-j69iV0cUw)<br>
 第二章：微观经济学基础 [资料](https://pan.baidu.com/s/11xIvu9XsGVzrmDUhgozPvw)<br>
 第三章：混合经济下的政府职能 [资料](https://pan.baidu.com/s/1zX4SGHKtl899WQWzaboVKg)<br>
+第四章：公共品 [资料](https://pan.baidu.com/s/15K6rhOHhgxGLqMVrGqhl5A)
